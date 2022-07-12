@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:orientation="vertical"
+    android:background="@drawable/sky_background"
+    android:weightSum="1">
+
+    <android.widget.Button
+        android:id="@+id/first_btn"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_marginTop="120dp"
+        android:layout_marginLeft="40dp"
+        android:layout_marginRight="40dp"
+        android:text="자격증 찾아보기"
+        android:textColor="#020202"
+        android:textSize="20dp"
+        android:fontFamily="@font/ef_diary"
+        android:background="@drawable/rounded_corner"/>
+
+    <android.widget.Button
+        android:id="@+id/second_btn"
+        android:layout_margin="40dp"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:text="컴공 관련 직종 보기"
+        android:textSize="20dp"
+        android:textColor="#020202"
+        android:fontFamily="@font/ef_diary"
+        android:background="@drawable/rounded_corner_blue" />
+
+    <View
+        android:layout_weight="0.3"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        />
+
+    <TextView
+        android:layout_margin="20dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:text="시험일까지 얼마나 남았는지 보여주기"
+        android:textColor="@color/black"
+        android:textSize="20dp"
+        android:fontFamily="@font/ef_diary" />
+    <!--
+    <Button
+        android:id="@+id/test_label"
+        android:layout_width="180dp"
+        android:layout_height="180dp"
+        android:layout_margin="20dp"
+        android:gravity="center"
+
+        android:text="자격증 찾아보기"
+        android:textColor="@color/black"
+        android:textSize="18sp"
+        app:backgroundTint="#E1BFBF"
+        tools:layout_editor_absoluteX="215dp"
+        tools:layout_editor_absoluteY="128dp" />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="180dp"
+        android:layout_height="180dp"
+
+        android:gravity="center"
+        android:text="컴공 관련 직종 보기"
+        android:textColor="@color/black"
+        android:textSize="18sp"
+        app:backgroundTint="#E1BFBF"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="128dp" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="366dp"
+        android:layout_height="223dp"
+
+        android:gravity="center"
+        android:text="시험일까지 얼마나 남았는지 보여주기"
+        android:textColor="@color/black"
+        tools:layout_editor_absoluteX="22dp"
+        tools:layout_editor_absoluteY="474dp" />
+-->
+
+</LinearLayout>

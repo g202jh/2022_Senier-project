@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".secondActivity"
+    android:orientation="vertical"
+    android:background="@drawable/sky_background">
+
+    <ListView
+        android:id="@+id/list"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+    </ListView>
+
+<!--    <TextView-->
+<!--        android:layout_marginTop="60dp"-->
+<!--        android:layout_marginLeft="20dp"-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:text="정보처리기능사"-->
+<!--        android:textSize="20dp"-->
+<!--        android:fontFamily="@font/ef_diary"-->
+<!--        android:textColor="#020202" />-->
+<!--    <TextView-->
+<!--        android:layout_marginTop="20dp"-->
+<!--        android:layout_marginLeft="20dp"-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:text="정보처리산업기사"-->
+<!--        android:textSize="20dp"-->
+<!--        android:fontFamily="@font/ef_diary"-->
+<!--        android:textColor="#020202" />-->
+<!--    <TextView-->
+<!--        android:layout_marginTop="20dp"-->
+<!--        android:layout_marginLeft="20dp"-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:text="정보처리기사"-->
+<!--        android:textSize="20dp"-->
+<!--        android:fontFamily="@font/ef_diary"-->
+<!--        android:textColor="#020202" />-->
+<!--    <TextView-->
+<!--        android:layout_marginTop="20dp"-->
+<!--        android:layout_marginLeft="20dp"-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:text="...."-->
+<!--        android:textSize="20dp"-->
+<!--        android:fontFamily="@font/ef_diary"-->
+<!--        android:textColor="#020202" />-->
+</LinearLayout>
