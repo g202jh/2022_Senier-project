@@ -16,7 +16,7 @@
 
 **처음 어플에 들어가면 보이는 화면**
 
-![Pic4](./pic/secondmd_4.jpg)
+![Pic1](./pic/secondmd_4.jpg)
 
 **어플 디자인 형태**
 
@@ -25,12 +25,12 @@
 
 **'자격증 찾아보기' 클릭시 나오는 화면**
 
-![Pic2](./pic/secondmd_3.png)
+![Pic2](./pic/secondmd_3.jgp)
 
 
 **'컴공관련 직종 보기' 클릭시 나오는 화면**
 
-![Pic](./pic/secondmd_1.png)
+![Pic3](./pic/secondmd_1.png)
 
 
 <br/>
