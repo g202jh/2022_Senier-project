@@ -20,7 +20,7 @@
 
 **어플 디자인 형태**
 
-<img src="![app_play_ex](https://user-images.githubusercontent.com/62230117/179760681-9fe3613d-435a-4777-ba7f-c84b0098a793.gif)">
+![app_play_ex](https://user-images.githubusercontent.com/62230117/179760681-9fe3613d-435a-4777-ba7f-c84b0098a793.gif)
 
 
 **'자격증 찾아보기' 클릭시 나오는 화면**
